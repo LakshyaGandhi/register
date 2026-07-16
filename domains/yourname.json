@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "email": "lakshya.gandhi@outlook.com",
+    "username": "LakshyaGandhi"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "https://lakshyagandhi.wixsite.com/my-site"
+  }
+}
